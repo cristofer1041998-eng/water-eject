@@ -6,8 +6,8 @@ Command-line Tools (sin Android Studio, sin emulador).
 
 ## Descarga
 
-- APK: [water-eject.apk](https://water-eject.vercel.app/water-eject.apk)
-- Página: https://water-eject.vercel.app
+- APK: [water-eject.apk](https://water-eject-android.vercel.app/water-eject.apk)
+- Página: https://water-eject-android.vercel.app
 
 ## Qué hace
 
